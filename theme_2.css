@@ -1240,3 +1240,32 @@ div
 	.fullSizeOverlayBackground_c69a7b {
 	background: var(--big-user-popout-background-transparency);
 }
+
+.userPopoutOuter_c69a7b.userProfileOuterUnthemed_c69a7b:not(
+		.profileCustomizationPreview_ab876d
+	)
+	.userPopoutInner_c69a7b::before {
+	background: url(https://us-east-1.tixte.net/uploads/cdn.nekonyan.fun/nyanimated.gif);
+	background-size: 25%;
+}
+
+.userPopoutOuter_c69a7b.userProfileOuterUnthemed_c69a7b .banner_c3e427 {
+	mask: linear-gradient(to bottom, #000, transparent 125%);
+}
+
+.root_f9a4c9
+	.userProfileOuterUnthemed_c69a7b
+	.userProfileModalInner_c69a7b::before {
+	background: url(https://i.imgur.com/g1Zd9Jj.png);
+	background-size: cover;
+	background-position: center;
+	opacity: 50%;
+}
+
+.root_f9a4c9 .userProfileOuterUnthemed_c69a7b .banner_c3e427 {
+	mask: linear-gradient(to bottom, #000, transparent 125%);
+}
+
+.root_f9a4c9 .userProfileOuterUnthemed_c69a7b .userProfileModalInner_c69a7b {
+	background: none;
+}
