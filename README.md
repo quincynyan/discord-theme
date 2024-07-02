@@ -45,3 +45,5 @@ My channel names:
 ![image](https://github.com/quincynyan/discord-theme/assets/65074780/9eae41ca-404c-427a-9907-169b13ea9061)
 
 ![gif](https://us-east-1.tixte.net/uploads/cdn.nekonyan.fun/DiscordCanary_G4v9ePNLyY.gif)
+
+[Video preview](https://youtu.be/yohl3opXJv0)
