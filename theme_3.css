@@ -3,7 +3,9 @@
 }
 
 .container_ee69e0[aria-label*="Beau"] .content_eed6a8 {
-	max-width: calc(var(--custom-standard-sidebar-view-sidebar-total-width) - 14px);
+	max-width: calc(
+		var(--custom-standard-sidebar-view-sidebar-total-width) - 14px
+	);
 	display: grid;
 	grid-template-columns: 50% 50%;
 	grid-gap: 6px;
